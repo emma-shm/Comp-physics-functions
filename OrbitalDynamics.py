@@ -1,3 +1,6 @@
+import numpy as np
+import math
+
 '''Altitude of a satellite'''
 
 G=6.67*10**(-11) # defining gravitational constant
